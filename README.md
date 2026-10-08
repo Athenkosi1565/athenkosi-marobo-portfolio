@@ -2,8 +2,6 @@
 
 Next.js portfolio for an IT Engineer based in Cape Town. Content is centralised in `lib/data.ts`.
 
-GitHub profile used on the site: https://github.com/Athenkosi1565
-
 ## Update without rewriting the app
 
 - Profile, email, social URLs: `lib/data.ts` (`profile`, `links`)
@@ -11,7 +9,7 @@ GitHub profile used on the site: https://github.com/Athenkosi1565
 - CV: put the real PDF at `public/cv/athenkosi-marobo-cv.pdf` and set `cvReady` to `true`
 - Contact delivery: the form validates and includes a honeypot. Wire a form endpoint in `components/Contact.tsx` when you have one.
 
-LinkedIn, Credly, Microsoft Learn and email are still placeholders.
+Placeholder links are intentional. Do not publish until LinkedIn, GitHub, Credly, Microsoft Learn and email are replaced.
 
 ## Run
 
